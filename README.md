@@ -1,6 +1,6 @@
 ### Hi there, I'm Aadil an aspiring Data Analyticis student 👋
 
-[![Linkedin follow](https://img.shields.io/badge/Linkedin-Follow-blue)](https://twitter.com/imaadill)
+[![Linkedin follow](https://img.shields.io/badge/Linkedin-Follow-blue)](https://www.linkedin.com/in/aadil-mohammed-4a8750156/)
 
 
 ## I'm a student, Analyst from India persuing my MBA in Business Analytics.
