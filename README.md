@@ -35,7 +35,7 @@
 <img align="left" alt="Excel" width="26px" src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/gatsby/gatsby.png" />
 <img align="left" alt="Spss" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />
 <img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-<img align="left" alt="Spss" width="26px" src="https://miro.medium.com/max/875/0*9f5uMrKMjLbzEf7q.png" />
+<img align="left" alt="Git" width="30px" src="https://miro.medium.com/max/875/0*9f5uMrKMjLbzEf7q.png" />
 
 <br />
 
