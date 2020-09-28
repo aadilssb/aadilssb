@@ -1,4 +1,4 @@
-### Hi there, I'm Aadil an aspiring Data Analyticis student 👋
+### Hi there, I'm [Aadil](https://github.com/aadilssb) an aspiring Data Analyticis student <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" width=35 height=35> 
 
 [![Linkedin follow](https://img.shields.io/badge/Linkedin-Follow-blue)](https://www.linkedin.com/in/aadil-mohammed-4a8750156/)
 
